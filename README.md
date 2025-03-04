@@ -63,10 +63,10 @@ Clone o repositório ou baixe o projeto para sua máquina.
 Se preferir, pode usar o comando abaixo para **clonar** diretamente via Git:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Cmmagnus/analise-de-dados
 ```
 
-Ou baixe o arquivo compactado diretamente [aqui](https://github.com/seu-usuario/seu-repositorio/archive/main.zip).
+Ou baixe o arquivo compactado diretamente [aqui](https://github.com/Cmmagnus/analise-de-dados/archive/main.zip).
 
 ---
 
@@ -81,7 +81,7 @@ Os arquivos CSV com os dados de vendas devem estar localizados no **mesmo diret�
 Abra seu terminal ou prompt de comando e execute o script principal em Python com o seguinte comando:
 
 ```bash
-python nome_do_arquivo.py
+python scripts.py
 ```
 
 Após isso, relaxe e acompanhe os resultados que aparecerão na tela!
@@ -113,3 +113,27 @@ Este projeto está licenciado sob a **MIT License**. Para mais detalhes, consult
 ---
 
 #### ✨ **Divirta-se programando!** ✨
+
+---
+
+### ⚠️ **AVISO IMPORTANTE: DADOS FICTÍCIOS E OBJETIVO DIDÁTICO** 📚
+
+Todos os dados utilizados neste projeto são **fictícios** e foram criados com o intuito exclusivo de **demonstrar técnicas de análise de dados**. O principal objetivo deste projeto é **ensinar e ilustrar** como realizar análises de dados com o uso de ferramentas como **chats de texto**, **scripts de programação** e outras técnicas relacionadas.
+
+Este repositório não tem a intenção de manipular ou processar dados reais e, portanto, deve ser considerado apenas como um **material didático** para **aprendizado e demonstração** de boas práticas em análise de dados. 🚀
+
+---
+
+#### 📊 **O QUE VOCÊ APRENDE COM ESTE PROJETO?**
+
+- **Análise de dados** utilizando scripts de programação em Python.
+- Como estruturar e trabalhar com dados em formato CSV.
+- O uso de ferramentas de análise para gerar relatórios e insights.
+
+---
+
+#### **IMPORTANTE**: Caso você esteja utilizando este projeto para **aprendizado ou prática**, lembre-se de que **os resultados não refletem dados reais** e são apenas para fins educacionais.
+
+---
+
+Desejo a você uma excelente jornada de aprendizado! ✨
