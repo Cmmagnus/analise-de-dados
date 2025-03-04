@@ -1,3 +1,5 @@
+# README ORIGINAL
+
 # Características
 
 - A empresa foca apenas em fabricação de consoles, deixando a distribuição e venda para terceiros
